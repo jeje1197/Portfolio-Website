@@ -13,7 +13,7 @@ export const projects = [
     description:"Chat online with your friends using the NiteChat App. ",
     image: '/images/2.png',
     tags: ['JavaScript', 'React', 'Node', 'Firebase'],
-    source: 'https://google.com',
+    source: 'nitechat.netlify.app',
     visit: 'https://google.com',
     id: 1,
   },
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'JEv8 Delivery Game',
-    description: "This",
+    description: "This is one of the first games I wrote. The JEv8 Delivery Game features...",
     image: '/images/4.jpg',
     tags: ['Java', 'Processing.js'],
     source: 'https://mega.nz/file/7DYRwSiR#jV4FmjJgK48gInDQUvvZymJDpkrQIRdetLup6wZhpQ8',
@@ -38,7 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
+  { year: 2017, text: 'Started my coding journey', },
   { year: 2018, text: 'Created and released my first game', },
   { year: 2019, text: 'Founded JavaScript Mastery', },
   { year: 2020, text: 'Shared my projects with the world', },
