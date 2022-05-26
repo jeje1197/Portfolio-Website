@@ -9,10 +9,10 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'BackChat App',
-    description:"Chat online with your friends with BackChat App. Realtime chatroom",
+    title: 'NiteChat App',
+    description:"Chat online with your friends using the NiteChat App. ",
     image: '/images/2.png',
-    tags: ['JavaScript', 'Socket.io', 'Node', 'Express'],
+    tags: ['JavaScript', 'React', 'Node', 'Firebase'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
