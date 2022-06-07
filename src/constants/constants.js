@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'NiteChat App',
-    description:"Chat online with your friends using the NiteChat App. ",
-    image: '/images/2.png',
+    title: 'FireLink Online',
+    description:"Chat online with your friends using the FireLink chatroom. Click the links below to test it out!",
+    image: '/images/Firelink_screenshot.png',
     tags: ['JavaScript', 'React', 'Node', 'Firebase'],
-    source: 'nitechat.netlify.app',
-    visit: 'https://google.com',
+    source: 'https://nitechat.netlify.app',
+    visit: 'https://github.com/jeje1197/Nitechat',
     id: 1,
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'JEv8 Delivery Game',
     description: "This is one of the first games I wrote. The JEv8 Delivery Game features...",
-    image: '/images/4.jpg',
+    image: '/images/JEv8Game_screenshot.png',
     tags: ['Java', 'Processing.js'],
     source: 'https://mega.nz/file/7DYRwSiR#jV4FmjJgK48gInDQUvvZymJDpkrQIRdetLup6wZhpQ8',
     visit: 'https://github.com/jeje1197/JEv8',
