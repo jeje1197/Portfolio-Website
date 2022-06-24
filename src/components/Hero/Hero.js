@@ -13,7 +13,7 @@ const Hero = () => (
         I'm Joseph Evans
       </SectionTitle>
       <SectionText>
-        Full Stack Web {'&'} Mobile Application Developer
+        Full Stack Software Developer
         {/* from UC Santa Cruz */}
         <SectionSubText>
         University of California, Santa Cruz
