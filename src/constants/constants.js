@@ -4,7 +4,7 @@ export const projects = [
     description: "The PathFinder Visualizer gives a live demonstation of how dijkstra's algorithm updates.",
     image: '/images/PathFinderScreenshot.png',
     tags: ['Python', 'Pygame'],
-    source: 'https://mega.nz/file/XCZBQKDK#3tyBVhKuuvctP5BAGYAl1Qm0bno1N-kNoU3PVkhEcv4',
+    source: 'https://mega.nz/file/iXgTnTJQ#kQ2lHlznUNZX5zAPxeBw5DSuUFwncZEUyr749aym4LQ',
     visit: 'https://github.com/jeje1197/PathFinder',
     id: 0,
   },
