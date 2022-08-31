@@ -8,19 +8,22 @@ import { LeftSection } from './HeroStyles';
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
+
       <SectionTitle main center>
         Hi,<br/>
-        I'm Joseph Evans
+        I'm {"<"}Joseph Evans{"/>"}
       </SectionTitle>
       <SectionText>
-        Full-Stack Software Engineer
+        {/* Full-Stack Software Engineer */}
         {/* from UC Santa Cruz */}
         <SectionSubText>
-        University of California, Santa Cruz
+          I'm a Junior Software Engineer from the University of California,
+          Santa Cruz and
+          the creator of the Spearmint Programming Language. 
         </SectionSubText>
       </SectionText>
 
-      <Button onClick={() => window.location = 'mailTo: Josephev4@gmail.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'mailTo: Josephev4@gmail.com'}>Get in touch!</Button>
 
     </LeftSection>
   </Section>

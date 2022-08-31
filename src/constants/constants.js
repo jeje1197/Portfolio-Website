@@ -14,8 +14,17 @@ export const projects = [
     image: '/images/SpearmintScreenshot.png',
     tags: ['React', 'Flask', 'JavaScript', 'Python', 'HTML', 'CSS'],
     source: 'https://spearmint.netlify.app/',
-    visit: 'https://github.com/jeje1197/PathFinder',
+    visit: 'https://github.com/jeje1197/Spearmint_Project',
     id: 1,
+  },
+  {
+    title: 'Online Chat App',
+    description:"FireLink Online is a free-to-use webchat application where you can converse with family and friends.",
+    image: '/images/Firelink_screenshot.png',
+    tags: ['React', 'Node', 'Firebase', 'JavaScript'],
+    source: 'https://firelinkchat.netlify.app',
+    visit: 'https://github.com/jeje1197/FireLink',
+    id: 2,
   },
   {
     title: 'Delivery Truck Game',
@@ -26,17 +35,9 @@ export const projects = [
     tags: ['Processing.js', 'Java'],
     source: 'https://mega.nz/file/7DYRwSiR#jV4FmjJgK48gInDQUvvZymJDpkrQIRdetLup6wZhpQ8',
     visit: 'https://github.com/jeje1197/JEv8',
-    id: 2,
-  },
-  {
-    title: 'Online Chat App',
-    description:"FireLink Online is a free-to-use webchat application where you can converse with family and friends.",
-    image: '/images/Firelink_screenshot.png',
-    tags: ['React', 'Node', 'Firebase', 'JavaScript'],
-    source: 'https://firelinkchat.netlify.app',
-    visit: 'https://github.com/jeje1197/FireLink',
     id: 3,
   },
+  
   {
     title: 'Android Music Player App',
     description: `Cero's Music Player is an application that groups device songs into

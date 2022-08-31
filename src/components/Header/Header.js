@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
-import { DiCssdeck, DiCodeigniter } from 'react-icons/di';
-// import { SocialIconsContainer } from '../Footer/FooterStyles'
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
+import { DiCodeigniter } from 'react-icons/di';
+import { SocialIconsContainer } from '../Footer/FooterStyles';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span} from './HeaderStyles';
 
@@ -33,12 +33,14 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/jeje1197">
-        <AiFillGithub size="3rem"></AiFillGithub>
-      </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/joseph-evans-8658051a1/">
-        <AiFillLinkedin size="3rem"></AiFillLinkedin>
-      </SocialIcons>
+      <SocialIconsContainer>
+        <SocialIcons href="https://github.com/jeje1197">
+          <AiFillGithub size="3rem"></AiFillGithub>
+        </SocialIcons>
+        <SocialIcons href="https://www.linkedin.com/in/joseph-evans-8658051a1/">
+          <AiFillLinkedin size="3rem"></AiFillLinkedin>
+        </SocialIcons>
+      </SocialIconsContainer>
     </Div3>
   </Container>
 );
