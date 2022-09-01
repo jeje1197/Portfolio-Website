@@ -17,7 +17,7 @@ const Hero = () => (
         {/* Full-Stack Software Engineer */}
         {/* from UC Santa Cruz */}
         <SectionSubText>
-          I'm a Junior Software Engineer from the University of California,
+          I'm a Software Engineer from the University of California,
           Santa Cruz and
           the creator of the Spearmint Programming Language. 
         </SectionSubText>
