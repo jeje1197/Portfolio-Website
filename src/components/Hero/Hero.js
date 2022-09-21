@@ -14,16 +14,13 @@ const Hero = () => (
         I'm {"<"}Joseph Evans{"/>"}
       </SectionTitle>
       <SectionText>
-        {/* Full-Stack Software Engineer */}
-        {/* from UC Santa Cruz */}
         <SectionSubText>
-          I'm a Software Engineer from the University of California,
-          Santa Cruz and
-          the creator of the Spearmint Programming Language. 
+          Software engineer and web developer from the University of California,
+          Santa Cruz. My goal is to leverage cutting-edge technology to provide pleasant user-experiences.
         </SectionSubText>
       </SectionText>
 
-      <Button onClick={() => window.location = 'mailTo: Josephev4@gmail.com'}>Get in touch!</Button>
+      <Button onClick={() => window.location = 'mailTo: Josephev4@gmail.com'}>Contact me!</Button>
 
     </LeftSection>
   </Section>

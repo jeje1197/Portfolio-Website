@@ -1,13 +1,14 @@
 export const projects = [
   {
-    title: "Dijkstra's Shortest Path Visualizer",
-    description: "The PathFinder Visualizer provides a live demonstation of how dijkstra's algorithm computes the shortest path between two points.",
-    image: '/images/PathFinderScreenshot.png',
-    tags: ['Python', 'Pygame', 'Tkinter'],
-    source: 'https://mega.nz/file/iXgTnTJQ#kQ2lHlznUNZX5zAPxeBw5DSuUFwncZEUyr749aym4LQ',
-    visit: 'https://github.com/jeje1197/PathFinder',
+    title: "YouTube Clone App",
+    description: "This is a simplified youtube web application where users can search for and watch videos.",
+    image: '/images/ytclone-screenshot.jpg',
+    tags: ['React', 'MaterialUI', 'RapidAPI', 'HTML', 'CSS'],
+    source: 'https://ytcloneapp.netlify.app/',
+    visit: 'https://github.com/jeje1197/youtube_clone',
     id: 0,
-  }, {
+  },
+  , {
     title: 'Spearmint Online Code Editor & Interpreter',
     description: `Spearmint is a high-level, imperative programming language I developed along with an online code editor to write and run code.
     You can also find extensive documentation for the language on its official website.`,
@@ -37,7 +38,15 @@ export const projects = [
     visit: 'https://github.com/jeje1197/JEv8',
     id: 3,
   },
-  
+  {
+    title: "Dijkstra's Shortest Path Visualizer",
+    description: "The PathFinder Visualizer provides a live demonstation of how dijkstra's algorithm computes the shortest path between two points.",
+    image: '/images/PathFinderScreenshot.png',
+    tags: ['Python', 'Pygame', 'Tkinter'],
+    source: 'https://mega.nz/file/iXgTnTJQ#kQ2lHlznUNZX5zAPxeBw5DSuUFwncZEUyr749aym4LQ',
+    visit: 'https://github.com/jeje1197/PathFinder',
+    id: 4,
+  },
   {
     title: 'Android Music Player App',
     description: `Cero's Music Player is an application that groups device songs into
@@ -46,7 +55,7 @@ export const projects = [
       tags: ['Android Studio', 'Android SDK', 'Java', 'XML'],
     source: 'https://play.google.com/store',
     visit: 'https://github.com/jeje1197/Music-Player',
-    id: 4,
+    id: 5,
   },
 ];
 
@@ -55,6 +64,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Developed and released my first game',},
   { year: 2019, text: 'Explored sound engineering and production',},
   { year: 2020, text: 'Shared my projects with the world',},
-  { year: 2021, text: 'Completed my CS degree from UC Santa Cruz',},
+  { year: 2021, text: 'Completed my CS degree at UC Santa Cruz',},
   { year: 2022, text: 'Developed the Spearmint Programming Language',}
 ];
