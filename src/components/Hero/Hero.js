@@ -16,7 +16,7 @@ const Hero = () => (
       <SectionText>
         <SectionSubText>
           Software engineer and web developer from the University of California,
-          Santa Cruz. My goal is to leverage cutting-edge technology to provide pleasant user-experiences.
+          Santa Cruz. My goal is to leverage cutting-edge technology to provide a pleasant user-experience.
         </SectionSubText>
       </SectionText>
 
