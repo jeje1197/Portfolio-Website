@@ -1,3 +1,5 @@
-## Personal Portfolio
+# Portfolio-Website
+This is my portfolio website, a place to display some of my projects and my email for contact purposes.
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Tools Used: React, JavaScript, HTML, CSS, React-Icons
+Visit: https://josephevans.netlify.app
