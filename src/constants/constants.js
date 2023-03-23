@@ -65,5 +65,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Explored sound engineering and production',},
   { year: 2020, text: 'Shared my projects with the world',},
   { year: 2021, text: 'Completed my CS degree at UC Santa Cruz',},
-  { year: 2022, text: 'Developed the Spearmint Programming Language',}
+  { year: 2022, text: 'Developed the Spearmint Programming Language',},
+  { year: 2023, text: 'Joined the Cognixia JUMP Program',}
 ];
