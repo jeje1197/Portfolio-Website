@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Recipe Sharing App',
     description:"A full-stack web application where users can make and share recipes with people in their community. It leverages AWS Elastic Cloud Compute (EC2), Relational Database Service (RDS), and Simple Storage Service (S3).",
-    image: '/images/Firelink_screenshot.png',
+    image: '/images/RecipeSharingApp_Home.png',
     tags: ['Spring Boot', 'React', 'MySQL', 'AWS', 'Java', 'JavaScript'],
     source: 'https://github.com/jeje1197/Recipe-Sharing-App',
     visit: 'https://github.com/jeje1197/Recipe-Sharing-App',
